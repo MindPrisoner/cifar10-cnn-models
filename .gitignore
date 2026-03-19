@@ -1,0 +1,22 @@
+# 数据集
+data/
+*.csv
+*.h5
+*.hdf5
+
+# 模型文件
+*.pt
+*.pth
+*.ckpt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志
+logs/
+runs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
